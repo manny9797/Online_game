@@ -1,0 +1,16 @@
+.testimonial-card2-testimonial-card {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  background: #fff;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  align-items: flex-start;
+  justify-content: center;
+}
+.testimonial-card2-root-class-name1 {
+  align-self: flex-start;
+}
+.testimonial-card2-root-class-name2 {
+  align-self: flex-start;
+}

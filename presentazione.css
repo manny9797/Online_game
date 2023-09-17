@@ -1,0 +1,111 @@
+
+.navigation-links5-nav {
+flex: 0 0 auto;
+display: flex;
+align-items: center;
+flex-direction: row;
+}
+.navigation-links5-text1 {
+margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links5-text2 {
+margin-left: var(--dl-space-space-twounits);
+}
+.navigation-links5-text3 {
+margin-left: var(--dl-space-space-twounits);
+}
+
+.presentazione-container {
+width: 100%;
+display: flex;
+overflow: auto;
+height: 120px;
+
+align-items: center;
+flex-direction: column;
+}
+.presentazione-header {
+width: 100%;
+height: 146px;
+display: flex;
+max-width: var(--dl-size-size-maxwidth);
+align-items: center;
+padding-top: 0px;
+padding-left: 5%;
+padding-right: 5%;
+padding-bottom: 0px;
+justify-content: space-between;
+}
+.presentazione-nav {
+display: flex;
+}
+.presentazione-icon {
+width: 40px;
+height: 40px;
+}
+.presentazione-burger-menu {
+border: 2px dashed rgba(120, 120, 120, 0.4);
+display: none;
+}
+.presentazione-mobile-menu {
+top: 0px;
+left: 0px;
+width: 100%;
+height: 100vh;
+display: none;
+padding: 32px;
+z-index: 100;
+position: absolute;
+flex-direction: column;
+justify-content: space-between;
+background-color: #fff;
+}
+.presentazione-nav1 {
+display: flex;
+align-items: flex-start;
+flex-direction: column;
+}
+.presentazione-container1 {
+width: 100%;
+display: flex;
+align-items: center;
+margin-bottom: var(--dl-space-space-threeunits);
+justify-content: space-between;
+}
+.presentazione-image {
+height: 2rem;
+}
+.presentazione-menu-close {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.presentazione-icon02 {
+width: var(--dl-size-size-xsmall);
+height: var(--dl-size-size-xsmall);
+}
+.presentazione-icon04 {
+width: var(--dl-size-size-xsmall);
+height: var(--dl-size-size-xsmall);
+margin-right: var(--dl-space-space-twounits);
+}
+.presentazione-icon06 {
+width: var(--dl-size-size-xsmall);
+height: var(--dl-size-size-xsmall);
+margin-right: var(--dl-space-space-twounits);
+}
+.presentazione-icon08 {
+width: var(--dl-size-size-xsmall);
+height: var(--dl-size-size-xsmall);
+}
+.presentazione-image1 {
+width: autp;
+height: 110px;
+margin-top: 1%;
+object-fit: cover;
+margin-left: 5%;
+}
+.presentazione-button {
+width: 15%;
+height: 25%;
+}
