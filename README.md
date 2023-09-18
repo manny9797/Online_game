@@ -13,7 +13,9 @@ The score calculation is achieved by a php algorithm iterating over the users.
 
 ![Immagine](https://github.com/manny9797/Online_game/assets/72711879/8b4b910d-af95-4f9f-b627-19220e0689a3)
 
-### Fanta-ChampionsLeague
+
+### FANTA CHAMPIONS-LEAGUE (champions.php)
+
 
 ![Immagine](https://github.com/manny9797/Online_game/assets/72711879/6a230f5f-bf2a-47a1-bd01-32875948848e)
 
